@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/AmazeFileManager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AnExplorer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CardView/CardView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Simple-File-Manager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Solution_Chat_POC/friendlychat-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Solution_Chat_POC/kaamKi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Solution_Chat_POC/kaamKi/kotlin-koans" vcs="Git" />
+  </component>
+</project>
